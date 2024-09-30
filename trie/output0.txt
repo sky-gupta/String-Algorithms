@@ -1,0 +1,5 @@
+the --- Present in trie
+these --- Not present in trie
+their --- Present in trie
+thaw --- Not present in trie
+thei --- Not present in trie
